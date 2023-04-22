@@ -1,0 +1,32 @@
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Dashboard.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Customers.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Settings.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Users.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.LogForm.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Stocks.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.ViewStockoutList.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Inventory Management System - Group 3.vbproj.GenerateResource.Cache
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\aileen\onedrive\documents\visual studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.StocksOut.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.Dashboard.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.Customers.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.Settings.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.StocksOut.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.Users.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.LogForm.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.Stocks.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.ViewStockoutList.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Aileen\OneDrive\Documents\Visual Studio 2012\Projects\Inventory Management System - Group 3\WindowsApplication5\obj\Debug\Inventory Management System - Group 3.vbproj.GenerateResource.Cache
